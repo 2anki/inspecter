@@ -1,0 +1,16 @@
+A web app to preview the deck_info.json from 2anki.net. Also it should enable the uploader to make corrections by picking out new selectors for the front / back and then trigger the conversion / inspect again.
+
+Problem
+
+The problem with 2anki.net is that some people get surprised by the converted output. Also they have
+expectations on what is supported. The inspecter will help them learn how to use 2anki while improving
+it for their usecases.
+
+Inspiration
+
+- [SelectorGadget][0]
+- [Bank Statement Converter][1]
+
+
+[0]: https://selectorgadget.com/
+[1]: https://bankstatementconverter.com/
